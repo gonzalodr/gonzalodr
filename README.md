@@ -54,7 +54,7 @@ Focused and dedicated junior software developer with a strong background in info
 
 **Frameworks & Runtime**
 
-<img src="https://skillicons.dev/icons?i=fastapi,nodejs,react,nextjs,spring&theme=dark" />
+<img src="https://skillicons.dev/icons?i=fastapi,nodejs,react,nextjs,spring,dotnet&theme=dark" />
 
 <br/><br/>
 
